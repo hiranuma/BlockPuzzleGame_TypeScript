@@ -34,7 +34,7 @@ A simple block puzzle game implemented in TypeScript and HTML5 Canvas.
 
    ```bash
    git clone <repository-url>
-   cd block-puzzle-game
+   cd BlockPuzzleGame_TypeScript
    ```
 
 2. Install dependencies.
